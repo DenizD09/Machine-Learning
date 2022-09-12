@@ -6,3 +6,4 @@ pip install numpy
 pip install sklearn
 pip install matplotlib
 pip install seaborn
+Datasets are taken from kaggle.com
